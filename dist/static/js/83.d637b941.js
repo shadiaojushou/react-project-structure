@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww_create_react_app=self.webpackChunkwww_create_react_app||[]).push([[83],{83:function(e,a,c){c.r(a);c(959);var r=c(1527);a.default=function(){return(0,r.jsx)("h3",{children:"我是懒加载组件组件"})}}}]);

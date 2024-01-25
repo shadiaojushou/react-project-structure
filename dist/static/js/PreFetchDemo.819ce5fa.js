@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww_create_react_app=self.webpackChunkwww_create_react_app||[]).push([[377],{8336:function(e,c,r){r.r(c);r(959);var t=r(1527);c.default=function(){return(0,t.jsx)("h3",{children:"我是PreFetchDemo组件"})}}}]);
